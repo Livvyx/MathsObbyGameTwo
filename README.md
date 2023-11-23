@@ -11,10 +11,10 @@ and squeeze through various obstacles to find your answer to the equation.
 
 # Launching Game Via Unreal Engine
 
-Install Maths Obby Game 2
-First of all clone this repo to your device: git clone https://github.com/Livvyx/MathsObbyGame.git
-Open Unreal Engine
-Open the file in unreal engine
+[1] Install Maths Obby Game 2
+[2] First of all clone this repo to your device: git clone https://github.com/Livvyx/MathsObbyGame.git
+[3] Open Unreal Engine
+[4] Open the file in unreal engine
 
 # Play it Live!
 
